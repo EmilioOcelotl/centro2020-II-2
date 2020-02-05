@@ -18,7 +18,9 @@ funciones, arreglos y estructuras de control.
 
 ## Sesiones
 
-- [ ] [Semana 27-31 enero](https://github.com/EmilioOcelotl/centro2020-II-2/tree/master/centro2_200127/README.md) - Clase 1.
+- [x] [Semana 27-31 enero](https://github.com/EmilioOcelotl/centro2020-II-2/tree/master/centro2_200127/README.md) - Clase 1.
+
+- [ ] [Semana 3-7 febrero](https://github.com/EmilioOcelotl/centro2020-II-2/tree/master/centro2_200203/README.md) - Clase 2.
 
 ## Evaluación 
 
@@ -26,11 +28,15 @@ funciones, arreglos y estructuras de control.
 
 - Lecturas: Form and Code 10%
 
-- Primer parcial: participación 5% y ejercicio a entregar 20% - 17 al 23 de septiembre
+- Primer parcial: participación 5% y ejercicio a entregar 20%
 
-- Segundo parcial: participación 5% y ejercicio a entregar 20% - 28 de octubre al 4 de noviembre
+- Segundo parcial: participación 5% y ejercicio a entregar 20%
 
 - Tercer parcial: participación 5% y ejercicio a entregar 10%
+
+## Entregas parciales
+
+- [Primera entrega](https://github.com/EmilioOcelotl/centro2020-II-2/tree/master/primeraEntrega/README.md). Fecha: 4 de marzo.
 
 ## Enlaces
 
