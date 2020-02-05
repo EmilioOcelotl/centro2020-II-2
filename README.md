@@ -20,7 +20,7 @@ funciones, arreglos y estructuras de control.
 
 - [x] [Semana 27-31 enero](https://github.com/EmilioOcelotl/centro2020-II-2/tree/master/centro2_200127/README.md) - Clase 1.
 
-- [ ] [Semana 3-7 febrero](https://github.com/EmilioOcelotl/centro2020-II-2/tree/master/centro2_200203/README.md) - Clase 2.
+- [ ] [Semana 03-07 febrero](https://github.com/EmilioOcelotl/centro2020-II-2/tree/master/centro2_200203/README.md) - Clase 2.
 
 ## Evaluación 
 
@@ -63,5 +63,7 @@ funciones, arreglos y estructuras de control.
 - Reas, C., & Fry, B. (2014). Processing: a programming handbook for visual designers and artists. Massachusetts: MIT Press.
 
 - Reas, C., McWilliams, C., & LUST. (2010). Form + Code: in design, art and architecture. New York:Princeton Architectural Press.
+
+- Runberg, D. (2015). The Sparkfun Guide To Processing. San Francisco: No Starch Press. 
 
 - Van Cleave, M., & Community, L. (2016). Introduction to logic and critical thinking. Independent.
